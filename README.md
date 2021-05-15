@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2>(Namaste)🙏🏻, I'm Prakhar Dixit! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
 * I’m a techie who loves to explore different technologies and tech stacks.My major fields of interests Include Machine Learning , Deep learning, Computer Vision😀.
 
 * I am really intrigued how technologies💻 and its solutions are helping the world and the society, I would really like to contribute my part to it.
@@ -13,7 +15,16 @@
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
 
+<div align="center">
 
+<a href="https://github.com/jstrieb/github-stats">
+  
+![](https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+</div>
 
 
 <p align="left"> 
