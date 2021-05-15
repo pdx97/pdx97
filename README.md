@@ -5,11 +5,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-* I’m a techie who loves to explore different technologies and tech stacks.My major fields of interests Include Machine Learning , Deep learning, Computer Vision😀.
+<p><em> Former Software Engineer at <a href="https://www.titan.co.in/">ClearTax</a></em></p>
 
-* I am really intrigued how technologies💻 and its solutions are helping the world and the society, I would really like to contribute my part to it.
+<p> I’m a techie who loves to explore different technologies and tech stacks.My major fields of interests Include Machine Learning , Deep learning, Computer Vision😀.</p>
 
-* You can follow me here : [![Linkedin: Prakhar](https://img.shields.io/badge/-Prakhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakhar-dixit-712751149/)](https://www.linkedin.com/in/prakhar-dixit-712751149/)
+<p>I am really intrigued how technologies💻 and its solutions are helping the world and the society, I would really like to contribute my part to it.</p>
+
+<p> You can follow me here : [![Linkedin: Prakhar](https://img.shields.io/badge/-Prakhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakhar-dixit-712751149/)](https://www.linkedin.com/in/prakhar-dixit-712751149/)</p>
 
 
 ### Github-stats
