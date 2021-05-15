@@ -4,8 +4,9 @@
 * You can reach me through [Linkedin](https://www.linkedin.com/in/prakhar-dixit-712751149/)
 
 # github-stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&show_icons=true&theme=radical))](https://github.com/pdx97/github-stats)
-* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97)](https://github.com/pdx97/github-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&show_icons=true&theme=radical))](https://github.com/pdx97/github-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact)](https://github.com/pdx97/github-stats)
+
+
 
 
 <p align="center"> 
