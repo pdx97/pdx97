@@ -1,12 +1,15 @@
 ### Hi there 👋
+
 * I’m a techie who loves to explore different technologies and tech stacks.My major fields of interests Include Machine Learning , Deep learning, Computer Vision😀.
+
 * I am really intrigued how technologies💻 and its solutions are helping the world and the society, I would really like to contribute my part to it.
+
 * You can reach me through [Linkedin](https://www.linkedin.com/in/prakhar-dixit-712751149/)
 
 
 ### Github-stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&show_icons=true&theme=merko&bg_color=#eb9e34))](https://github.com/anuraghazra/github-readme-stats)  
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
 
