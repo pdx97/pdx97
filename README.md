@@ -1,4 +1,4 @@
-<div align="center">
+
 ### Hi there 👋
 
 <h2>(Namaste)🙏🏻, I'm Prakhar Dixit! </h2>
@@ -31,7 +31,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/87d54b8ad86f593cefcbe5c896c3070ffd8090d0/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f502d726979616e6b612d7072617361642f636f756e742e737667"><img src="https://camo.githubusercontent.com/87d54b8ad86f593cefcbe5c896c3070ffd8090d0/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f502d726979616e6b612d7072617361642f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/P-riyanka-prasad/count.svg" style="max-width:100%;"></a>
 </p>
 
-</div>
+
 
 
 
