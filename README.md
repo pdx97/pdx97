@@ -7,7 +7,7 @@
 ### Github-stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&show_icons=true&theme=radical))](https://github.com/pdx97/github-stats) 
 * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact)](https://github.com/pdx97/github-stats)
-* [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdx97&repo=github-readme-stats)](https://github.com/pdx97/github-stats)
+* [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdx97&repo=github-stats)](https://github.com/pdx97/github-stats)
 
 <p align="left"> 
   Visitor count<br>
