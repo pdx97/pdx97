@@ -8,7 +8,7 @@
 
 * I am really intrigued how technologies💻 and its solutions are helping the world and the society, I would really like to contribute my part to it.
 
-* [![Linkedin: Prakhar](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakhar-dixit-712751149/)](https://www.linkedin.com/in/prakhar-dixit-712751149/)
+* You can follow me here : [![Linkedin: Prakhar](https://img.shields.io/badge/-Prakhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakhar-dixit-712751149/)](https://www.linkedin.com/in/prakhar-dixit-712751149/)
 
 
 ### Github-stats
