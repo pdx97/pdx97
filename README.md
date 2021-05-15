@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>(Namaste)🙏🏻, I'm Prakhar Dixit! <img src="https://giphy.com/gifs/computer-reality-mind-128Ygie2wLdH5m" width="50"></h2>
+<h2>(Namaste)🙏🏻, I'm Prakhar Dixit! </h2>
 
 * I’m a techie who loves to explore different technologies and tech stacks.My major fields of interests Include Machine Learning , Deep learning, Computer Vision😀.
 
