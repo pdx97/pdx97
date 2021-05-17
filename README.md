@@ -28,6 +28,7 @@
 
 ### Reach out to me 📝
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 [<img align="left" alt="groverkds | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
 [<img align="left" alt="groverkds | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
