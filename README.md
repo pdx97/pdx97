@@ -3,7 +3,7 @@
 
 <h2>(Namaste)🙏🏻, I'm Prakhar Dixit! </h2>
 
----
+
 
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
@@ -51,7 +51,7 @@
 [linkedin]: https://www.linkedin.com/in/prakhar-dixit-712751149/
 [Spotify]: https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq
 
----
+
 
 
 
