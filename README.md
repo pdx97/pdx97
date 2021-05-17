@@ -41,6 +41,15 @@
 [<img align="left" alt="pdx97 | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 [<img align="left" alt="pdx97 | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
 
+---
+
+### Github-stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&show_icons=true&theme=merko&card_width=500)](https://github.com/anuraghazra/github-readme-stats)  
+
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)</br>
+
+
 
 
 
