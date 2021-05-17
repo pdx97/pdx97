@@ -3,7 +3,7 @@
 
 <h2>(Namaste)🙏🏻, I'm Prakhar Dixit! </h2>
 
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="330">
 
 * <p><em>Former Software Engineer at <a href="https://www.titan.co.in/">Titan Company Limited</a></em></p>
 
