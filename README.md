@@ -11,8 +11,7 @@
 
 * 📚 I am really intrigued how technologies and its solutions are helping the world and the society, I would really like to contribute my part to it.
 
-* You can follow me here : [![Linkedin: Prakhar](https://img.shields.io/badge/-Prakhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakhar-dixit-712751149/)](https://www.linkedin.com/in/prakhar-dixit-712751149/)</p>
-* ⚡ Fun fact: I write poems, cook a lot of Italian and Punjabi food and play a Ukulele.
+* ⚡ Fun fact: I love to read Comics , i am an amateur guitar player in my past time🎸 .
 
 ---
 
@@ -22,10 +21,14 @@
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)</br>
 
-<p align="left"> 
-  Visitor count<br>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/87d54b8ad86f593cefcbe5c896c3070ffd8090d0/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f502d726979616e6b612d7072617361642f636f756e742e737667"><img src="https://camo.githubusercontent.com/87d54b8ad86f593cefcbe5c896c3070ffd8090d0/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f502d726979616e6b612d7072617361642f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/P-riyanka-prasad/count.svg" style="max-width:100%;"></a>
-</p>
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq)
 
 ---
 
