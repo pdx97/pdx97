@@ -13,7 +13,7 @@
 
 * 📚 I am really intrigued how technologies and its solutions are helping the world and the society, I would really like to contribute my part to it.
 
-* ⚡ Fun fact: I love to read Comics , i am an amateur guitar player in my past time🎸 .
+* ⚡ Fun fact: Reading Comics,Playing Guitar are some of my hobbies🎸 .
 
 
 </br>
