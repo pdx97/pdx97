@@ -26,6 +26,12 @@
 
 ---
 
+### Spotify Playing 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozrpd6qx3u0qyxn5zppsuacdq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 ### Reach out to me 📝
 
 
