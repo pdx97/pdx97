@@ -28,14 +28,12 @@
 
 ### Reach out to me 📝
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-[<img align="left" alt="groverkds | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
-[<img align="left" alt="groverkds | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="left" alt="groverkds | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
+[<img align="left" alt="pdx97 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
+[<img align="left" alt="pdx97 | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
+[<img align="left" alt="pdx97 | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
 
 
----
 
 
 [instagram]: https://www.instagram.com/pdx972/
