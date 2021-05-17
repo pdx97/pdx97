@@ -3,6 +3,8 @@
 
 <h2>(Namaste)🙏🏻, I'm Prakhar Dixit! </h2>
 
+---
+
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="330">
 
 * <p><em>Former Software Engineer at <a href="https://www.titan.co.in/">Titan Company Limited</a></em></p>
@@ -32,7 +34,6 @@
 [<img align="left" alt="groverkds | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
 
 
-
 ---
 
 
@@ -45,10 +46,6 @@
 
 
 
-
-
-<!--
-**pdx97/pdx97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
