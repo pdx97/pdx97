@@ -24,19 +24,20 @@
 
 <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozrpd6qx3u0qyxn5zppsuacdq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 </br>
+</br>
 
 
 
 
 
-### Reach out to me 📝
+## Reach out to me 📝
 ***
 
 [<img align="right" alt="pdx97 | LinkedIn" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
@@ -48,10 +49,10 @@
 
 </br>
 </br>
-</br>
 
 
-###  Github-stats 
+
+##  Github-stats 
 ***
 
 
