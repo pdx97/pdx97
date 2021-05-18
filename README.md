@@ -35,7 +35,7 @@
 
 [<img align="right" alt="pdx97 | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
 [<img align="right" alt="pdx97 | Instagram" height="40px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="right" alt="pdx97 | Spotify" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify
+[<img align="right" alt="pdx97 | Spotify" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
 [<img align="right" alt="pdx97 | Spotify" height="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
 
 </br>
