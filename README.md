@@ -1,5 +1,5 @@
 
-### Hi there 👋
+## Hi there 👋
 
 <h2>(Namaste)🙏🏻, I'm Prakhar Dixit! </h2>
 
