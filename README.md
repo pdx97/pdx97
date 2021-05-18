@@ -22,7 +22,7 @@
 
 
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="210px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ## Spotify Playing 🎧
 
@@ -39,10 +39,10 @@
 ## Reach out to me 📝
 
 
-[<img align="left" alt="pdx97 | LinkedIn" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
-[<img align="left" alt="pdx97 | Instagram" height="50px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="left" alt="pdx97 | Spotify" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
-[<img align="left" alt="pdx97 | Spotify" height="50px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
+[<img align="left" alt="pdx97 | LinkedIn" height="45px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
+[<img align="left" alt="pdx97 | Instagram" height="45px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
+[<img align="left" alt="pdx97 | Spotify" height="45px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
+[<img align="left" alt="pdx97 | Spotify" height="45px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
 
 
 
@@ -57,7 +57,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=435)](https://github.com/anuraghazra/github-readme-stats)</br>
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=440)](https://github.com/anuraghazra/github-readme-stats)</br>
 
 
 
