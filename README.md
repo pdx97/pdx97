@@ -17,7 +17,7 @@
 
 * ⚡ Fun fact: Reading Comics,Playing Guitar are some of my hobbies🎸 .
 
-***
+
 </br>
 
 
@@ -37,7 +37,7 @@
 
 
 ## Reach out to me 📝
-***
+
 
 [<img align="right" alt="pdx97 | LinkedIn" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
 [<img align="right" alt="pdx97 | Instagram" height="50px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
@@ -52,7 +52,7 @@
 
 
 ##  Github-stats 
-***
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
