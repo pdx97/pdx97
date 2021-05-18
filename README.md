@@ -30,7 +30,7 @@
 
 ---
 
-### Reach out to me 📝
+### <h2>Reach out to me 📝</h2>
 
 
 [<img align="right" alt="pdx97 | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
@@ -41,7 +41,7 @@
 
 ---
 
-### Github-stats
+### <h2> Github-stats </h2>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
 
