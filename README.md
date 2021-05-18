@@ -8,7 +8,6 @@
 
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
 
-***
 
 * <p><em>Former Software Engineer at <a href="https://www.titan.co.in/">Titan Company Limited</a></em></p>
 
@@ -21,7 +20,7 @@
 
 </br>
 
-***
+
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -30,7 +29,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozrpd6qx3u0qyxn5zppsuacdq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-***
+
 </br>
 
 
@@ -39,12 +38,11 @@
 
 ### Reach out to me 📝
 
+[<img align="right" alt="pdx97 | LinkedIn" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
+[<img align="right" alt="pdx97 | Instagram" height="50px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
+[<img align="right" alt="pdx97 | Spotify" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
+[<img align="right" alt="pdx97 | Spotify" height="50px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
 
-[<img align="right" alt="pdx97 | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
-[<img align="right" alt="pdx97 | Instagram" height="40px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="right" alt="pdx97 | Spotify" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
-[<img align="right" alt="pdx97 | Spotify" height="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
-***
 </br>
 
 
