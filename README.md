@@ -22,12 +22,10 @@
 
 
 
-<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-
-***
-
+---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozrpd6qx3u0qyxn5zppsuacdq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
@@ -46,7 +44,7 @@
 [<img align="right" alt="pdx97 | Spotify" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
 [<img align="right" alt="pdx97 | Spotify" height="50px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
 
-***
+
 
 </br>
 
