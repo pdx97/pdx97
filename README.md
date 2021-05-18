@@ -18,7 +18,7 @@
 
 </br>
 
----
+
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -28,7 +28,7 @@
 
 </br>
 
----
+
 
 ## Reach out to me 📝
 
@@ -40,7 +40,7 @@
 
 </br>
 
----
+
 
 ###  Github-stats 
 
