@@ -17,12 +17,12 @@
 
 * ⚡ Fun fact: Reading Comics,Playing Guitar are some of my hobbies🎸 .
 
-
+***
 </br>
 
 
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
@@ -45,6 +45,8 @@
 [<img align="right" alt="pdx97 | Instagram" height="50px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 [<img align="right" alt="pdx97 | Spotify" height="50px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
 [<img align="right" alt="pdx97 | Spotify" height="50px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
+
+***
 
 </br>
 
