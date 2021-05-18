@@ -35,7 +35,8 @@
 
 [<img align="right" alt="pdx97 | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
 [<img align="right" alt="pdx97 | Instagram" height="40px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="right" alt="pdx97 | Spotify" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
+[<img align="right" alt="pdx97 | Spotify" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify
+[<img align="right" alt="pdx97 | Spotify" height="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
 
 </br>
 
@@ -54,7 +55,7 @@
 [instagram]: https://www.instagram.com/pdx972/
 [linkedin]: https://www.linkedin.com/in/prakhar-dixit-712751149/
 [Spotify]: https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq
-
+[Discord]: https://discord.gg/9Y942EFH
 
 
 
