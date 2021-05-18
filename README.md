@@ -43,7 +43,7 @@
 
 ### Github-stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&show_icons=true&theme=merko&layout=compact&card_width=1100)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&layout=compact&card_width=1100&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=1100)](https://github.com/anuraghazra/github-readme-stats)</br>
 
