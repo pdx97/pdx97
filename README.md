@@ -22,7 +22,7 @@
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### <h3>Spotify Playing  🎧</h3>
+### <h2>Spotify Playing  🎧</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozrpd6qx3u0qyxn5zppsuacdq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
@@ -43,7 +43,7 @@
 
 ### Github-stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&&show_icons=true&theme=merko&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)</br>
 
