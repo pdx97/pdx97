@@ -8,9 +8,9 @@
 
 * <p><em>Former Software Engineer at <a href="https://www.titan.co.in/">Titan Company Limited</a></em></p>
 
-* 💻 I am a techie who loves to explore different technologies and tech stacks. My major fields of interests Include Machine Learning , Deep learning , Computer Vision😀.
+* 💻 I am a techie who loves to explore different technologies and tech stacks. My major fields of interests Include Machine Learning , Deep learning  and Computer Vision😀.
 
-* 📚 I am really intrigued how technologies and its solutions are helping the world and the society, I would really like to contribute my part to it.
+* 📚  intrigued how technologies and its solutions are helping the world and the society and would really like to contribute my part to it.
 
 * ⚡ Fun fact: Reading Comics,Playing Guitar are some of my hobbies🎸.
 
