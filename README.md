@@ -3,9 +3,6 @@
 
 <h2>(Namaste)🙏🏻, I'm Prakhar Dixit! </h2>
 
-
-
-
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
 
 
@@ -15,26 +12,19 @@
 
 * 📚 I am really intrigued how technologies and its solutions are helping the world and the society, I would really like to contribute my part to it.
 
-* ⚡ Fun fact: Reading Comics,Playing Guitar are some of my hobbies🎸 .
+* ⚡ Fun fact: Reading Comics,Playing Guitar are some of my hobbies🎸.
+
+---
 
 
-</br>
-
-
-
-<img align="right" alt="GIF" height="210px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ## Spotify Playing 🎧
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozrpd6qx3u0qyxn5zppsuacdq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-</br>
-</br>
-
-
-
-
+---
 
 ## Reach out to me 📝
 
@@ -44,10 +34,9 @@
 [<img align="left" alt="pdx97 | Spotify" height="45px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
 [<img align="left" alt="pdx97 | Spotify" height="45px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
 
+<br />
 
-
-</br>
-</br>
+---
 
 
 
@@ -57,7 +46,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=440)](https://github.com/anuraghazra/github-readme-stats)</br>
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+---
 
 
 
