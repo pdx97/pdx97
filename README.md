@@ -1,14 +1,14 @@
 
 ## Hi there 👋
 
-<h2>(Namaste)🙏🏻, I'm Prakhar Dixit! </h2>
+<h2>(Namaste)🙏🏻, I am Prakhar Dixit! </h2>
 
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
 
 
 * <p><em>Former Software Engineer at <a href="https://www.titan.co.in/">Titan Company Limited</a></em></p>
 
-* 💻 I’m a techie who loves to explore different technologies and tech stacks. My major fields of interests Include Machine Learning , Deep learning , Computer Vision😀.
+* 💻 I am a techie who loves to explore different technologies and tech stacks. My major fields of interests Include Machine Learning , Deep learning , Computer Vision😀.
 
 * 📚 I am really intrigued how technologies and its solutions are helping the world and the society, I would really like to contribute my part to it.
 
