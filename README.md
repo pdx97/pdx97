@@ -6,7 +6,10 @@
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
 
 
+* Incoming Masters of Computer Science Student at <a href="https://www.umbc.edu/">University Of Maryland Baltimore County</a></em></p>
+
 * <p><em>Former Software Engineer at <a href="https://www.titan.co.in/">Titan Company Limited</a></em></p>
+
 
 * 💻 I am a techie who loves to explore different technologies and tech stacks. My major fields of interests Include Machine Learning , Deep learning  and Computer Vision😀.
 
