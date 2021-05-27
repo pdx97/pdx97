@@ -6,7 +6,7 @@
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
 
 
-* Incoming Masters of Computer Science Student at <a href="https://www.umbc.edu/">University Of Maryland Baltimore County</a></em></p>
+* Incoming Masters of Computer Science Student for the Fall 2021 term at <a href="https://www.umbc.edu/">University Of Maryland Baltimore County</a></em></p>
 
 * <p><em>Former Software Engineer at <a href="https://www.titan.co.in/">Titan Company Limited</a></em></p>
 
