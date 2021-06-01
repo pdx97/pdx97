@@ -60,7 +60,7 @@
 [instagram]: https://www.instagram.com/pdx972/
 [linkedin]: https://www.linkedin.com/in/prakhar-dixit-712751149/
 [Spotify]: https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq
-[Discord]: https://discord.gg/9Y942EFH
+[Discord]: https://discord.gg/RWnR52nG
 
 
 
