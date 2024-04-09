@@ -23,10 +23,13 @@
 
 <h3>Reach Out to Me 📝</h3>
 <div class="social-links">
-   <a href="[https://www.flaticon.com/free-icons/linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)" title="linkedin icons">Linkedin</a>
-    <a href="https://www.instagram.com/pdx972/"><img alt="pdx97 | Instagram" src="https://image.flaticon.com/icons/svg/733/733558.svg" /></a>
-   <a href="https://www.flaticon.com/free-icons/spotify-sketch" title="spotify sketch icons">Spotify sketch icons created by Fathema Khanom - Flaticon</a>
-    <a href="https://discord.gg/RWnR52nG"><img alt="pdx97 | Discord" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" /></a>
+    <a href="https://www.linkedin.com/in/prakhar-dixit-712751149/">LinkedIn</a>
+    <br>
+    <a href="https://www.instagram.com/pdx972/">Instagram</a>
+    <br>
+    <a href="https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq">Spotify</a>
+    <br>
+    <a href="https://discord.gg/RWnR52nG">Discord</a>
 </div>
 
 
