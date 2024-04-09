@@ -1,48 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prakhar Dixit's Introduction</title>
+<style>
+    body { font-family: Arial, sans-serif; }
+    .social-links img { height: 30px; margin-right: 10px; }
+</style>
+</head>
+<body>
 
-## Hi there 👋
+<h2>Hi there 👋, I'm Prakhar Dixit!</h2>
 
-<h2>I am Prakhar Dixit! </h2>
+<ul>
+    <li>🎓 <strong>Masters of Computer Science Student</strong> for the Fall 2021 term at the University of Maryland, Baltimore County (UMBC).</li>
+    <li>💼 <strong>Former Software Engineer</strong> at Titan Company Limited.</li>
+    <li>💻 Tech enthusiast passionate about <strong>Machine Learning, Deep Learning, and Computer Vision</strong>.</li>
+    <li>🌍 Eager to contribute to technological solutions that help society.</li>
+    <li>⚡ <strong>Fun fact:</strong> I love reading comics and playing the guitar 🎸.</li>
+</ul>
 
-<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
+<h3>Spotify Playing 🎧</h3>
+<p>Check out my Spotify <a href="https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq">profile</a> to see what I'm currently jamming to!</p>
 
-
-*  Masters of Computer Science Student for the Fall 2021 term at <a href="https://www.umbc.edu/">University Of Maryland Baltimore County</a></em></p>
-
-* <p><em>Former Software Engineer at <a href="https://www.titan.co.in/">Titan Company Limited</a></em></p>
-
-
-* 💻 I am a techie who loves to explore different technologies and tech stacks. My major fields of interests Include Machine Learning , Deep learning  and Computer Vision😀.
-
-* 📚 I am intrigued how technologies and its solutions are helping the world as well as the society and would really like to contribute my part to it.
-
-* ⚡ Fun fact: Reading Comics,Playing Guitar are some of my hobbies🎸.
-
----
-
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## Spotify Playing 🎧
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozrpd6qx3u0qyxn5zppsuacdq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-## Reach out to me 📝
-
-[<img align="left" alt="pdx97 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
-[<img align="left" alt="pdx97 | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="left" alt="pdx97 | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
-[<img align="left" alt="pdx97 | Spotify" height="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][Discord]
-
-<br />
-
----
+<h3>Reach Out to Me 📝</h3>
+<div class="social-links">
+    <a href="https://www.linkedin.com/in/prakhar-dixit-712751149/"><img alt="pdx97 | LinkedIn" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" /></a>
+    <a href="https://www.instagram.com/pdx972/"><img alt="pdx97 | Instagram" src="https://image.flaticon.com/icons/svg/733/733558.svg" /></a>
+    <a href="https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq"><img alt="pdx97 | Spotify" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" /></a>
+    <a href="https://discord.gg/RWnR52nG"><img alt="pdx97 | Discord" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" /></a>
+</div>
 
 
-
-##  Github-stats 🛠
+<h3>GitHub Stats 🛠</h3>
 
 
 
@@ -50,17 +41,14 @@
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
----
-
-
+</body>
+</html>
 
 
 
-[instagram]: https://www.instagram.com/pdx972/
-[linkedin]: https://www.linkedin.com/in/prakhar-dixit-712751149/
-[Spotify]: https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq
-[Discord]: https://discord.gg/RWnR52nG
+
+
+
 
 
 
