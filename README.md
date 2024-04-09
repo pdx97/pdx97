@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-<h2>(Namaste)🙏🏻, I am Prakhar Dixit! </h2>
+<h2>I am Prakhar Dixit! </h2>
 
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
 
