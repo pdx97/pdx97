@@ -26,9 +26,9 @@
 
 <h3>Reach Out to Me 📝</h3>
 <div class="social-links">
-    <a href="https://www.linkedin.com/in/prakhar-dixit-712751149/"><img alt="pdx97 | LinkedIn" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" /></a>
+   <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
     <a href="https://www.instagram.com/pdx972/"><img alt="pdx97 | Instagram" src="https://image.flaticon.com/icons/svg/733/733558.svg" /></a>
-    <a href="https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq"><img alt="pdx97 | Spotify" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" /></a>
+   <a href="https://www.flaticon.com/free-icons/spotify-sketch" title="spotify sketch icons">Spotify sketch icons created by Fathema Khanom - Flaticon</a>
     <a href="https://discord.gg/RWnR52nG"><img alt="pdx97 | Discord" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" /></a>
 </div>
 
