@@ -4,10 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Prakhar Dixit's Introduction</title>
-<style>
-    body { font-family: Arial, sans-serif; }
-    .social-links img { height: 30px; margin-right: 10px; }
-</style>
+
 </head>
 <body>
 
