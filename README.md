@@ -11,7 +11,8 @@
 <h2>Hi there 👋, I'm Prakhar Dixit!</h2>
 
 <ul>
-    <li>🎓 <strong>Masters of Computer Science Student</strong> for the Fall 2021 term at the University of Maryland, Baltimore County (UMBC).</li>
+    <li>🎓 <strong>PhD in Computer Science Student</strong> at the University of Maryland, Baltimore County (UMBC).</li>
+    <li>🎓 <strong>Completed MS in Computer Science from University of Maryland, Baltimore County (UMBC).</li>
     <li>💼 <strong>Former Software Engineer</strong> at Titan Company Limited.</li>
     <li>💻 Tech enthusiast passionate about <strong>Machine Learning, Deep Learning, and Computer Vision</strong>.</li>
     <li>🌍 Eager to contribute to technological solutions that help society.</li>
