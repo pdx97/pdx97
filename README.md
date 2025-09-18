@@ -1,65 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-
-</head>
-<body>
-
-<h2>Hi there 👋, I'm Prakhar Dixit!</h2>
-
-<ul>
-    <li>🎓 <strong>PhD in Computer Science Student</strong> at the University of Maryland, Baltimore County (UMBC).</li>
-    <li>🎓 <strong>Completed MS in Computer Science from University of Maryland, Baltimore County (UMBC).</li>
-    <li>💼 <strong>Former Software Engineer</strong> at Titan Company Limited.</li>
-    <li>💻 Tech enthusiast passionate about <strong>Machine Learning, Deep Learning, and Computer Vision</strong>.</li>
-    <li>🌍 Eager to contribute to technological solutions that help society.</li>
-    <li>⚡ <strong>Fun fact:</strong> I love reading comics and playing the guitar 🎸.</li>
-</ul>
-
-<h3>Spotify Playing 🎧</h3>
-<p>Check out my Spotify <a href="https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq">profile</a> to see what I'm currently jamming to!</p>
-
-<h3>Reach Out to Me 📝</h3>
-<div class="social-links">
-    <a href="https://www.linkedin.com/in/prakhar-dixit-712751149/">LinkedIn</a>
-    <br>
-    <a href="https://www.instagram.com/pdx972/">Instagram</a>
-    <br>
-    <a href="https://open.spotify.com/user/ozrpd6qx3u0qyxn5zppsuacdq">Spotify</a>
-    <br>
-    <a href="https://discord.gg/RWnR52nG">Discord</a>
+<!-- Skill icons -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
 </div>
 
+###
 
-<h3>GitHub Stats 🛠</h3>
+<!-- Social badges: replace href values with your profiles -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/prakhardixit250697/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR-HANDLE">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
+  <a href="https://discord.gg/YOUR-INVITE">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
 
+  <a href="https://dev.to/YOUR-HANDLE">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="Dev.to" />
+  </a>
+</div>
 
+###
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pdx97&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- Streak + Trophies: change username=pdx97 to your own -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pdx97&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pdx97&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
+</div>
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdx97&layout=compact&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-</body>
-</html>
+###
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Pacman contribution graph: replace pdx97 with your username -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pdx97/pdx97/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pdx97/pdx97/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pdx97/pdx97/output/pacman-contribution-graph.svg">
+</picture>
