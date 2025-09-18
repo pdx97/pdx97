@@ -33,11 +33,15 @@
     <a href="https://discord.gg/RWnR52nG">Discord</a>
   </div>
 
-  <h3>GitHub Stats 🛠</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pdx97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pdx97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  </div>
+  
+
+  ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 </body>
 </html>
